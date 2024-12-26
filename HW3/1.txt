@@ -1,0 +1,52 @@
+7
+ArticleA
+Running
+rUns
+run
+Runners
+Runner
+#
+ArticleB
+Played
+Playing
+Plays
+play
+Playful
+playfully
+#
+ArticleC
+Hikes
+Hiked
+Hike
+Hiking
+#
+ArticleD
+Cities
+City
+Citizen
+Citizenship
+#
+ArticleE
+Study
+Studies
+Studying
+Studious
+#
+ArticleF
+Interesting
+Interested
+Interests
+Interest
+#
+ArticleG
+Friends
+Friend
+Friendship
+Friendly
+#
+5
+ArticleA ArticleB
+ArticleC ArticleD
+ArticleE ArticleF
+ArticleG ArticleA
+ArticleB ArticleC
